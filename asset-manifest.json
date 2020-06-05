@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/card-workout/static/css/main.5f361e03.chunk.css",
+    "main.js": "/card-workout/static/js/main.4e21adea.chunk.js",
+    "main.js.map": "/card-workout/static/js/main.4e21adea.chunk.js.map",
+    "runtime-main.js": "/card-workout/static/js/runtime-main.27317aac.js",
+    "runtime-main.js.map": "/card-workout/static/js/runtime-main.27317aac.js.map",
+    "static/js/2.a3356d63.chunk.js": "/card-workout/static/js/2.a3356d63.chunk.js",
+    "static/js/2.a3356d63.chunk.js.map": "/card-workout/static/js/2.a3356d63.chunk.js.map",
+    "index.html": "/card-workout/index.html",
+    "precache-manifest.5fd9acd59e31f31dad48b8293d43cf5d.js": "/card-workout/precache-manifest.5fd9acd59e31f31dad48b8293d43cf5d.js",
+    "service-worker.js": "/card-workout/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/card-workout/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a3356d63.chunk.js.LICENSE.txt": "/card-workout/static/js/2.a3356d63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27317aac.js",
+    "static/js/2.a3356d63.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4e21adea.chunk.js"
+  ]
+}
