@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6eabe7e19c28f46ff81256567a6695e0",
+    "revision": "2ba3a2c1ced8c9e9148f888c40b11302",
     "url": "/card-workout/index.html"
   },
   {
-    "revision": "cf7ca32a9ecc5cbd9609",
+    "revision": "2bd76cd6000ae4e5a0b5",
     "url": "/card-workout/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/card-workout/static/js/2.a3356d63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf7ca32a9ecc5cbd9609",
-    "url": "/card-workout/static/js/main.b8ef8459.chunk.js"
+    "revision": "2bd76cd6000ae4e5a0b5",
+    "url": "/card-workout/static/js/main.81d88678.chunk.js"
   },
   {
     "revision": "2648b850e083cdbf7aba",
